@@ -11,10 +11,8 @@ A simple calculator created using HTML, CSS, and JavaScript.
 
 ## Technologies Used
 
-- <img width="1660" height="975" alt="image" src="https://github.com/user-attachments/assets/cf9cc620-f5ad-4c30-9e60-51441d540c03" />
-
-- CSS3
-- JavaScript
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Author
 
